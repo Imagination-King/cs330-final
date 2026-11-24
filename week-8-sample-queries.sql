@@ -8,7 +8,7 @@ ORDER BY rating DESC;
 -- All copies of Jurassic Park
 SELECT m.name, mc.edition, c.name FROM movies AS m
 LEFT JOIN movie_copies AS mc ON m.id = mc.movie_id
-LEFT JOIN collections AS c ON mc.collection_id = c.id
+LEFT JOIN box_sets AS c ON mc.collection_id = c.id
 WHERE m.name = 'Jurassic Park';
 
 -- All movies with a Blu-Ray copy
@@ -23,7 +23,7 @@ ORDER BY m.name;
 -- All movies in the MCU Phase 1 Box Set
 SELECT m.name AS 'MCU Phase 1 Box Set' FROM movies AS m
 LEFT JOIN movie_copies AS mc ON m.id = mc.movie_id
-LEFT JOIN collections AS c ON mc.collection_id = c.id
+LEFT JOIN box_sets AS c ON mc.collection_id = c.id
 WHERE c.name = 'Marvel Cinematic Universe Phase One';
 
 -- All movies tagged Science Fiction

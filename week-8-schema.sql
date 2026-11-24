@@ -1,4 +1,3 @@
-DROP DATABASE collection;
 CREATE DATABASE my_collection;
 
 USE my_collection;

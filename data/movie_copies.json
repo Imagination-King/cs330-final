@@ -1,0 +1,9426 @@
+[
+  {
+    "name": "10.5 Apocalypse",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "101 Dalmatians",
+    "rel_date": "1961-01-25",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "12 Years a Slave",
+    "rel_date": "2013-10-18",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "13 Hours",
+    "rel_date": "2016-01-15",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "20000 Leagues Under the Sea",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "2001: A Space Odyssey",
+    "rel_date": "1968-04-02",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": "Copy 1",
+        "formats": [
+          "DVD"
+        ]
+      },
+      {
+        "edition": "Copy 2",
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "2012",
+    "rel_date": "2009-11-13",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "2012: Doomsday",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "3-2-1 Penguins Moon Menace On Planet Tell-a-Lie",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS",
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "3-2-1 Penguins Runaway Pride at Lightstation Kilowatt",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "3-2-1 Penguins The Amazing Carnival of Complaining",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "3-2-1 Penguins The Cheating Scales of Bullamanka",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "3-2-1 Penguins The Doom Tunnel Rescue",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "3-2-1 Penguins Trouble On Planet Wait-Your-Turn",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "42: The Jackie Robinson Story",
+    "rel_date": "2013-04-12",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "A Beautiful Mind",
+    "rel_date": "2001-12-21",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "A Christmas Story",
+    "rel_date": "1983-11-18",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "A Quiet Place",
+    "rel_date": "2018-04-06",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "Digital"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "A Walk in the Clouds",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Abba The Definitive Collection",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "About Time",
+    "rel_date": "2013-11-01",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Abraham and Isaac",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Absolute Power",
+    "rel_date": "1997-02-14",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Accountant, The",
+    "rel_date": "2016-10-14",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ace of Hearts",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Admiral: Rolling Currents, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Adventures in Odyseey: A Fight to the Finish",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Adventures in Odyseey: A Fine Feathered Frenzy",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Adventures in Odyseey: A Stranger Among Us",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Adventures in Odyseey: A Twist in Time",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Adventures in Odyseey: Baby Daze",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Adventures in Odyseey: Electric Christmas",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Adventures in Odyseey: Go West Young Man",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Adventures in Odyseey: In Harm's Way",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Adventures in Odyseey: Once Upon an Avalanche",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Adventures in Odyseey: Shadow of a Doubt",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Adventures in Odyseey: Someone to Watch Over Me",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Adventures in Odyseey: Star Quest",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Adventures in Odyseey: The Night Travelers",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Adventures of Elmo in Grouchland, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Adventures of Gallant Bess, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Adventures of Milo and Otis, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Adventures of Ociee Nash, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Adventures of Pinocchio, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Age of Adeline, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "AI Artificial Intelligence",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Aladdin",
+    "rel_date": "1992-11-25",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Alexander Graham Bell",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "All Dogs Go To Heaven 2",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "All New Not-So-Great Moments in Sports, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Allegiant",
+    "rel_date": "2016-03-18",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Amazing Spider-Man 2, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Amazing Spider-Man, The",
+    "rel_date": "2012-07-03",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "American Legends",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "American President, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "An American Tail",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "An American Tail Fievel Goes West",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "An American Tail The Treasure of Manhattan Island",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Animusic",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Animusic 2",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Anne of Green Gables",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Anne of Green Gables the Continuing Story",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Anne of Green Gables the Sequel",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ant Man",
+    "rel_date": "2015-07-17",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "Blu-ray"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Aquaman",
+    "rel_date": "2018-12-21",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD",
+          "Blu-ray",
+          "Digital"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Argo",
+    "rel_date": "2012-10-12",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Aristocats, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Astro Boy",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "At First Sight",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Atlantis the Lost Empire",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Avatar",
+    "rel_date": "2009-12-18",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Avengers Age of Ultron",
+    "rel_date": "2015-05-01",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Avengers Endgame",
+    "rel_date": "2019-04-26",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "Blu-ray",
+          "Digital"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Avengers Infinity War",
+    "rel_date": "2018-04-27",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "Blu-ray"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Avengers, The",
+    "rel_date": "2012-05-04",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD",
+          "Blu-ray"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Babe",
+    "rel_date": "1995-08-04",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Babe Pig in the City",
+    "rel_date": "1998-11-25",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bambi",
+    "rel_date": "1942-08-21",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Batman",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Batman and Robin",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Batman Begins",
+    "rel_date": "2005-06-15",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Batman Forever",
+    "rel_date": "1995-06-16",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Batman Returns",
+    "rel_date": "1992-06-19",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Batman the Movie",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Batman v Superman Dawn of Justice",
+    "rel_date": "2016-03-25",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Battle: Los Angeles",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Battlestar Galactica",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Beauty and the Beast (1991)",
+    "rel_date": "1991-11-22",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Beauty and the Beast (2017)",
+    "rel_date": "2017-03-17",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD",
+          "Blu-ray",
+          "Digital"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ben Hur",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Benjamin Franklin Scientist & Inventor",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Best of Monty Python 40th Anniversary Edition, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Best of Victor Borge, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Big Hero 6",
+    "rel_date": "2014-11-07",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD",
+          "Blu-ray",
+          "Digital"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Black Hole, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Black Panther",
+    "rel_date": "2018-02-16",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "Blu-ray",
+          "Digital"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Black Stallion Returns, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Black Stallion, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Blade Runner (The Final Cut)",
+    "rel_date": "1982-06-25",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD",
+          "Blu-ray"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Blind Side, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bob's Big Break",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Brave",
+    "rel_date": "2012-06-22",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD",
+          "Blu-ray"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Braveheart",
+    "rel_date": "1995-05-24",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bread From Heaven",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bridget Jones The Edge of Reason",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Buzz Lightyear of Star Command",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Captain America Civil War",
+    "rel_date": "2016-05-06",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "Blu-ray"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Captain America The First Avenger",
+    "rel_date": "2011-07-22",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD",
+          "Blu-ray",
+          "Digital"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Captain America The Winter Soldier",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Captain Blood",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Captain Marvel",
+    "rel_date": "2019-03-08",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "Blu-ray",
+          "Digital"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cars",
+    "rel_date": "2006-06-09",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Category 7",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cats",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cats and Dogs",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Charlotte's Web",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Chicken Little",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Chicken Run",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Chip and Dale Rescue Rangers Super Sleuths",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Chonda Pierce A Piece of my Mind",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Chonda Pierce Have I Got a Story For You",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Christopher Columbus",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cinderella (1950)",
+    "rel_date": "1950-02-15",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cinderella (2015)",
+    "rel_date": "2015-03-13",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Circle, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Citizen Kane",
+    "rel_date": "1941-05-01",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Clash of the Titans (1981)",
+    "rel_date": "1981-06-12",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Classic Cartoons Vols 1 & 2",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cloudy with a Chance of Meatballs",
+    "rel_date": "2009-09-18",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Coco",
+    "rel_date": "2017-11-22",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Conviction",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD",
+          "Blu-ray"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Core, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Courageous",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cowboys and Aliens",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD",
+          "Blu-ray"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Crash Landing",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "D2 The Mighty Ducks",
+    "rel_date": "1994-03-25",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Daniel",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dante's Peak",
+    "rel_date": "1997-02-07",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Daredevil",
+    "rel_date": "2003-02-14",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dark Knight Rises, The",
+    "rel_date": "2012-07-20",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dark Knight, The",
+    "rel_date": "2008-07-18",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dave",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "David and Goliath",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "David Copperfield",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dawn of the Planet of the Apes",
+    "rel_date": "2014-07-11",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Day After Tomorrow, The",
+    "rel_date": "2004-05-28",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Day the Earth Stood Still, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Deep Impact",
+    "rel_date": "1998-05-08",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Deep Water Horizon",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD",
+          "Blu-ray",
+          "Digital"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Descendents, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Divergent",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Divine Secrets of the Ya-Ya Sisterhood",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Do You Believe In Miracles?",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Doc Hollywood",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Doctor Strange",
+    "rel_date": "2016-11-04",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD",
+          "Blu-ray",
+          "Digital"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dr. Seuss' Daisy-Head Mayzie",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dr. Seuss' Horton Hears a Who",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dr. Seuss' How The Grinch Stole Christmas",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dragonheart",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dragonheart A New Beginning",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Drive-in Cult Classics 8-Movie Collection",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Drop, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dune",
+    "rel_date": "1984-12-14",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Earthquake",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Edge of Tomorrow",
+    "rel_date": "2014-06-06",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "El Ciclon",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Elijah",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Elisha",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Enchanted",
+    "rel_date": "2007-11-21",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ender's Game",
+    "rel_date": "2013-11-01",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD",
+          "Digital"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Enemy at the Gates",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Entrapment",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Epic",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Equalizer, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Eragon",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Escape Plan",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD",
+          "Digital"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Esther",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ever After: A Cinderella Story",
+    "rel_date": "1998-07-31",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Everest",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Exodus Gods and Kings",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Expelled",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Facing the Giants",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Family Man, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fantastic Beasts & Where to Find Them",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Field of Dreams",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Final Days of Planet Earth",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Finding Nemo",
+    "rel_date": "2003-05-30",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Finest Hours, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fireproof",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Flash Gordon",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Florence Nightingale",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Flywheel",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Forbidden Planet",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Forgive Us Our Debts",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fort Apache",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fox and the Hound",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Free State of Jones",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Freshman, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Friday Night Lights",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Frozen",
+    "rel_date": "2013-11-27",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD",
+          "Blu-ray",
+          "Digital"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fury",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "G.I. Joe Retaliation",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Garrow's Law",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gemstones of America",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "General George Washington",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gentlemen Prefer Blondes",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ghostbusters",
+    "rel_date": "1984-06-08",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Giver, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Godzilla (1998)",
+    "rel_date": "1998-05-20",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Godzilla (2014)",
+    "rel_date": "2014-05-16",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Godzilla King of the Monsters (2002)",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Godzilla King of the Monsters (2019)",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD",
+          "Blu-ray",
+          "Digital"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Godzilla Revenge",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Godzilla vs Mothra",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Good Samaritan, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Good Shepherd, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Good Will Hunting",
+    "rel_date": "1997-12-05",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Goonies, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "Blu-ray"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Grand Budapest Hotel, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Grand Canyon National Park, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Grease",
+    "rel_date": "1978-06-16",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Great Wall, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Greatest is the Least, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Greatest Showman, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD",
+          "Blu-ray",
+          "Digital"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Green Hornet, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": []
+      }
+    ]
+  },
+  {
+    "name": "Green Lantern (Extended Cut)",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD",
+          "Blu-ray"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gremlins",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "Blu-ray"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gremlins 2:The New Batch",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "Blu-ray"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Grey, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Greyfriars Bobby",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gridiron Gang",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Guardians of the Galaxy",
+    "rel_date": "2014-08-01",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "Blu-ray"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Guardians of the Galaxy Vol. 2",
+    "rel_date": "2017-05-05",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD",
+          "Blu-ray",
+          "Digital"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Guns of Navarone, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "H.G. Wells' The Time Machine",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hacksaw Ridge",
+    "rel_date": "2016-11-04",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hansel and Gretel Witch Hunters",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Happy Feet",
+    "rel_date": "2006-11-17",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Harriet Tubman",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hateful Eight, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "He is Risen",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Heaven can Wait",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Help, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "His Majesty O'Keene",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hitch",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hobbit An Unexpected Journey, The",
+    "rel_date": "2012-12-14",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hobbit The Battle of the Five Armies, The",
+    "rel_date": "2014-12-17",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Home Run",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hoodwinked",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hoodwinked Too! Hood vs Evil",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD",
+          "Blu-ray"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "How to Marry a Millionaire",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "How to Train Your Dragon",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "How to Train Your Dragon 2",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Howard the Duck",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hugo",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hunger Games Mockingjay Part 1, The",
+    "rel_date": "2014-11-21",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hunger Games Mockingjay Part 2, The",
+    "rel_date": "2015-11-20",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "I Am Number Four",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ice Age",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Igor",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "In the Heart of the Sea",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Incredibles 2",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD",
+          "Blu-ray"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Incredibles, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Independence Day",
+    "rel_date": "1996-07-03",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Indiana Jones Raiders of the Lost Ark",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS",
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Indiana Jones The Last Crusade",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Indiana Jones The Temple of Doom",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Inside Out",
+    "rel_date": "2015-06-19",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Interstellar",
+    "rel_date": "2014-11-07",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Into Hells Canyon",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Invincible Iron Man, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Iron Giant, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Iron Man",
+    "rel_date": "2008-05-02",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "Blu-ray"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Iron Man 2",
+    "rel_date": "2010-05-07",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Iron Man 3",
+    "rel_date": "2013-05-03",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD",
+          "Digital"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Irreplaceable",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "It's a Wonderful Life",
+    "rel_date": "1946-12-20",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Italian Job, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "J. Edgar",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jaci Velasquez",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS",
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jack Ryan: Shadow Recruit",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jackal, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jazz Canvas Live in Performance",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jesus, the Son of God",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jingle all the Way",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "John Carter",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "John the Baptist",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Johnny English",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Joseph in Egypt",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Joseph King of Dreams",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Joseph's Reunion",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Judge, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jupiter Ascending",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jurassic Park",
+    "rel_date": "1993-06-11",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jurassic Park The Lost World",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jurassic World",
+    "rel_date": "2015-06-12",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jurassic World Fallen Kingdom",
+    "rel_date": "2018-06-22",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD",
+          "Blu-ray",
+          "Digital"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Justice League",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "Digital"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Justice League Unlimited Joining Forces",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Justice League Unlimited Saving the World",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Justice league Vol 4 The Brave and the Bold",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "King and I, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "King is Born, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kingdom of Heaven, The",
+    "rel_date": "2005-05-06",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kirov Celebrates Nijinsky, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kung Fu Panda 2",
+    "rel_date": "2011-05-26",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD",
+          "Blu-ray"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lady and the Tramp",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Larry-Boy and the Rumor Weed",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "LarryBoy and the Angry Eyebrows",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "LarryBoy and the Bad Apple",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "LarryBoy and the Fib from Outer Space",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "LarryBoy and the Yodelnapper",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "LarryBoy Leggo My Ego",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "LarryBoy The Good The Bad and The Eggly",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS",
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Last of the Mohicans, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Last Stand",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Last Starfighter, The",
+    "rel_date": "1984-07-13",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Last Unicorn, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lazarus Lives",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lee Daniels' The Butler",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Left Behind The Movie",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Legend of Hercules, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD",
+          "Digital"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Legend of Tarzan, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Legends of Horrors 12-Disc Set",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Life",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Life of Pi",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lincoln Lawyer, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Little Drummer Boy, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Little Mermaid, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Logan",
+    "rel_date": "2017-03-03",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lord I Believe",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lord of the Rings The Fellowship of the Ring, The",
+    "rel_date": "2001-12-19",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS",
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lord of the Rings The Return of the King, The",
+    "rel_date": "2003-12-17",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lord of the Rings The Two Towers, The",
+    "rel_date": "2002-12-18",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lord's Prayer, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lost in Translation",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lost is Found, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Louis Pasteur",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Love Comes Softly",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Love's Enduring Promise",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lucy",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mackenna's Gold",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mad Max Fury Road",
+    "rel_date": "2015-05-15",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Madagascar",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD",
+          "Blu-ray"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Maid in Manhattan",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Man of Steel",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Man Who Shot Liberty Valance, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Manchester by the Sea",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "March of the Penguins",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Martian, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mask of Zorro, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Masquerade",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Master and Commander The Far Side of the World",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Matrix Reloaded",
+    "rel_date": "2003-05-15",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Matrix Revolutions",
+    "rel_date": "2003-11-05",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Matrix, The",
+    "rel_date": "1999-03-31",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Maze Runner The Scorch Trials",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Maze Runner, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Meet John Doe",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Meet the Robinsons",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mega Disasters 5-Disc Set",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Megamind",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Memphis Belle",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Men in Black",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Men in Black II",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Men of Honor",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mickey Blue Eyes",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Midnight Horror Collection, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mighty Ducks, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Minions",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ministry of Paul, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Miracles of Jesus, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Miracles of Love Music Video, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Miss Congeniality",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS",
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Miss Potter",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Missouri Traveler, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Moana",
+    "rel_date": "2016-11-23",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Monsters Inc",
+    "rel_date": "2001-11-02",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Monsters vs Aliens",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Monty Python Almost the Truth The Lawyer's Cut",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Monty Python and the Holy Grail",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Moses",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mouse Hunt",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mr. Holland's Opus",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mr. Nice Guy",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mr. Smith Goes to Washington",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mummy Returns, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mummy, The",
+    "rel_date": "1999-05-07",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "My Big Fat Greek Wedding",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "My Fellow Americans",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nanny McPhee",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": "Copy 1",
+        "formats": [
+          "DVD"
+        ]
+      },
+      {
+        "edition": "Copy 2",
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Narnia Prince Caspian",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Narnia The Lion the Witch and the Wardrobe",
+    "rel_date": "2005-12-09",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Narnia The Voyage of the Dawn Treader",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "National Treasure",
+    "rel_date": "2004-11-19",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "National Treasure 2 Book of Secrets",
+    "rel_date": "2007-12-21",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nature Unleashed Avalanche",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nature Unleashed Earthquake",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nature Unleashed Fire",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "NeverEnding Story, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Night at the Museum",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nightmare Before Christmas, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Noah",
+    "rel_date": "2014-03-28",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Oliver Twist",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Olympus Has Fallen",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "On The Beach",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "One Night with the King",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Oscar",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Other Boleyn Girl, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Pacific Rim",
+    "rel_date": "2013-07-12",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Passengers",
+    "rel_date": "2016-12-21",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD",
+          "Blu-ray",
+          "Digital"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Passion of the Christ, The",
+    "rel_date": "2004-02-25",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Patriots Day",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Peanuts Movie, The",
+    "rel_date": "2015-11-06",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD",
+          "Digital"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Percy Jackson & the Olympians the Lightning Thief",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Percy Jackson Sea of Monsters",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Peter Pan",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Phantom, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Pied Piper of Hamelin, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Pioneer",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Pirates of the Caribbean At World's End",
+    "rel_date": "2007-05-25",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Pirates of the Caribbean Dead Man's Chest",
+    "rel_date": "2006-07-07",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Pirates of the Caribbean The Curse of the Black Pearl",
+    "rel_date": "2003-07-09",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Planet of the Apes",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Pocahontas",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "President Abraham Lincoln",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Prince of Egypt, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Princess Bride, The",
+    "rel_date": "1987-10-09",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS",
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Prodigal Son, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Promised Land",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Quiet Man, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Radio",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Railway Man, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Raising Helen",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ralph Breaks the Internet",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD",
+          "Blu-ray",
+          "Digital"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ratatouille",
+    "rel_date": "2007-06-29",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ready Player One",
+    "rel_date": "2018-03-29",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD",
+          "Blu-ray",
+          "Digital"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Red Green's Duct Tape Forever",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Red River",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Reign of Fire",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": "Copy 1",
+        "formats": [
+          "DVD"
+        ]
+      },
+      {
+        "edition": "Copy 2",
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Rescuers, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Return to Me",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Reversal of Fortune",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Righteous Judge, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Rise of the Guardians",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD",
+          "Blu-ray"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Risen",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Robin Hood (2010)",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD",
+          "Blu-ray",
+          "Digital"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Robin Hood Men in Tights",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Robin Hood Prince of Thieves",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Rodan",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Roman Holiday",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Rookie, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Roxanne",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ruth",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sabrina",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sahara",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Samuel the Boy Prophet",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "San Andreas",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Santa Clause 2",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Santa Clause, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Saul of Tarsus",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Saving Mr. Banks",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Schoolhouse Rock",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Scorpion King 2 Rise of a Warrior, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Scorpion King, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Second Best Exotic Marigold Hotel, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Second Chance, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Secret of Nihm, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sense and Sensibility",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Serenity",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Seven Alone",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Seven Year Itch, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Shazam",
+    "rel_date": "2019-04-05",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD",
+          "Blu-ray",
+          "Digital"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "She Wore A Yellow Ribbon",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sherlock Holmes A Game of Shadows",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Shrek 2",
+    "rel_date": "2004-05-19",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sing",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sky Captain and the World of Tomorrow",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Skyfall",
+    "rel_date": "2012-11-09",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "Blu-ray"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sleeping Beauty (1959)",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Snow White and the Huntsman Extended Edition",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD",
+          "Blu-ray"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Snow White and the Seven Dwarfs",
+    "rel_date": "1937-12-21",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Solomon",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Some Like it Hot",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sound of Music, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Soylent Green",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Speed Racer",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Spider-Man",
+    "rel_date": "2002-05-03",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS",
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Spider-Man 2",
+    "rel_date": "2004-06-30",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Spider-Man 3",
+    "rel_date": "2007-05-04",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Spider-Man Far From Home",
+    "rel_date": "2019-07-02",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD",
+          "Blu-ray",
+          "Digital"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Spider-Man Homecoming",
+    "rel_date": "2017-07-07",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": "Copy 1",
+        "formats": [
+          "Digital"
+        ]
+      },
+      {
+        "edition": "Copy 2",
+        "formats": [
+          "DVD",
+          "Blu-ray",
+          "Digital"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Spider-Man Into The Spider-Verse",
+    "rel_date": "2018-12-14",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD",
+          "Blu-ray",
+          "Digital"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Spirit Stallion of the Cimarron",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Star Trek (2009)",
+    "rel_date": "2009-05-08",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Star Trek 2 The Wrath of Khan",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Star Trek Beyond",
+    "rel_date": "2016-07-22",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Star Trek Into Darkness",
+    "rel_date": "2013-05-16",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Star Wars A New Hope",
+    "rel_date": "1977-05-25",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS",
+          "DVD",
+          "Blu-ray"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Star Wars Attack of the Clones",
+    "rel_date": "2002-05-16",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD",
+          "Blu-ray"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Star Wars Holiday Special",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Star Wars Original Trilogy Bonus Material Disc",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Star Wars Return of the Jedi",
+    "rel_date": "1983-05-25",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS",
+          "DVD",
+          "Blu-ray"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Star Wars Revenge of the Sith",
+    "rel_date": "2005-05-19",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD",
+          "Blu-ray"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Star Wars Rogue One",
+    "rel_date": "2016-12-16",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD",
+          "Blu-ray",
+          "Digital"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Star Wars The Clone Wars",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Star Wars The Empire Strikes Back",
+    "rel_date": "1980-05-21",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS",
+          "DVD",
+          "Blu-ray"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Star Wars The Force Awakens",
+    "rel_date": "2015-12-18",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD",
+          "Blu-ray",
+          "Digital"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Star Wars The Last Jedi",
+    "rel_date": "2017-12-15",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD",
+          "Blu-ray",
+          "Digital"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Star Wars The Phantom Menace",
+    "rel_date": "1999-05-19",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD",
+          "Blu-ray"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Stargate",
+    "rel_date": "1994-10-28",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Stepmom",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Stuart Little",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Stuart Little 2",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Stuart Little 3 Call of the Wild",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sully",
+    "rel_date": "2016-09-09",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Superman Returns",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Superman The Movie",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Supernova",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Swan Princess, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Take Me Out to the Ball Game",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tangled",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ten Commandments, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Terminator Genisys",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Terror of Mechagodzilla",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "That Thing You Do",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "There Will be Blood",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Thing From Another World, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Thomas and the Magic Railroad",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Thomas Edison and the Electric Light",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Thor",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD",
+          "Blu-ray",
+          "Digital"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Thor Ragnarok",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD",
+          "Blu-ray",
+          "Digital"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Three Stooges Kings of Laughter, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Three Stooges Simply Hilarious, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Three Stooges, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tin Man",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "Blu-ray"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tom and Jerry the Movie",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tomorrowland",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Toy Story",
+    "rel_date": "1995-11-22",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Toy Story 2",
+    "rel_date": "1999-11-24",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS",
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Toy Story 3",
+    "rel_date": "2010-06-18",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD",
+          "Blu-ray"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Toy Story 4",
+    "rel_date": "2019-06-21",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD",
+          "Blu-ray",
+          "Digital"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Transformers",
+    "rel_date": "2007-07-03",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Transformers Age of Extinction",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Treasure Planet",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Treasures in Heaven",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Trouble with Angels, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tuxedo, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Twelve O'Clock High",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": "Copy 1",
+        "formats": [
+          "DVD"
+        ]
+      },
+      {
+        "edition": "Copy 2",
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Two Brothers",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ultimate Avengers the Movie",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Undercover Blues",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Up",
+    "rel_date": "2009-05-29",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "V for Vendetta",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "VeggieTales: A Snoodle's Tale",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "VeggieTales: A Very Silly Sing- a-long",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "VeggieTales: Abe and the Amazing Promise",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "VeggieTales: An Easter Carol",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "VeggieTales: Are You My Neighbor?",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "VeggieTales: Big River Rescue",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "VeggieTales: Dave and the Giant Pickle",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "VeggieTales: Duke and the Great Pie War",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "VeggieTales: Esther the Girl Who Became Queen",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "VeggieTales: Gideon Tuba Warrior",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "VeggieTales: God Wants Me to Forgive Them?",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "VeggieTales: It's a Meaningful Life",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "VeggieTales: Jonah a VeggieTales Movie",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "VeggieTales: Jonah Sing Along Songs and More",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "VeggieTales: Josh and the Big Wall",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "VeggieTales: King George and the Ducky",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "VeggieTales: Lord of the Beans",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "VeggieTales: Lyle the Kindly Viking",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "VeggieTales: Madame Blueberry",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "VeggieTales: Minnesota Cuke: The Search for Noah's Umbrella",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "VeggieTales: Minnesota Cuke: The Search for Samson's Hairbrush",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "VeggieTales: Moe and the Big Exit",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "VeggieTales: Pistachio The Little Boy That Wouldn't",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "VeggieTales: Rack Shack and Benny",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "VeggieTales: Saint Nicholas A Story Of Joyful Giving",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "VeggieTales: Sheerluck Holmes and the Golden Ruler",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "VeggieTales: Silly Sing Along 2",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "VeggieTales: Sumo of the Opera",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "VeggieTales: Sweetpea Beauty",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "VeggieTales: The Ballad of Little Joe",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "VeggieTales: The Pirates Who Don't Do Anything",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "VeggieTales: The Star of Christmas",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "VeggieTales: The Toy That Saved Christmas",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "VeggieTales: The Ultimate Silly Song Countdown",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "VeggieTales: The Wonderful Wizard of Ha's",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "VeggieTales: The Wonderful World of Autotainment",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "VeggieTales: Where's God When I'm Scared",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Vernard Ministering to the President of the United States",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Volcano",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Walking with Dinosaurs",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Wall-E",
+    "rel_date": "2008-06-27",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Wallace and Gromit in Three Amazing Adventures",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Wallace and Gromit The Curse of the Were-Rabbit",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "War Horse",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "War Wagon, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Warrior",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD",
+          "Blu-ray"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "We Bought a Zoo",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "What if...",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "When the Game Stands Tall",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "While You Were Sleeping",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "William Bradford The First Thanksgiving",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Willy Wonka and the Chocolate Factory",
+    "rel_date": "1971-06-30",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Wizard of Oz, The",
+    "rel_date": "1939-08-25",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Wolf of Wall Street, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Wolverine, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Woman in Gold",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Wonder Woman",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD",
+          "Blu-ray",
+          "Digital"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Wreck-It Ralph",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD",
+          "Blu-ray"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Wright Brothers, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "X-Files, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "VHS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "X-Men Apocalypse",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD",
+          "Blu-ray",
+          "Digital"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "X-Men Days of Future Past",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "Blu-ray",
+          "Digital"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "X-Men The Last Stand",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Young Victoria, The",
+    "rel_date": null,
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Zootopia",
+    "rel_date": "2016-03-04",
+    "rating": null,
+    "review": null,
+    "cover_image": "",
+    "copies": [
+      {
+        "edition": null,
+        "formats": [
+          "DVD"
+        ]
+      }
+    ]
+  }
+]
