@@ -14,7 +14,6 @@ CREATE TABLE tv_volumes( -- represents physical copies of full series, individua
     show_id INTEGER NOT NULL,
     name VARCHAR(255) NOT NULL,
     details VARCHAR(255),
-    format
     cover_image VARCHAR(255),
     FOREIGN KEY (show_id) REFERENCES tv_shows(id)
 );
